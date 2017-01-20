@@ -535,7 +535,9 @@ section#contact .form-group input.form-control {
 }
 section#contact .form-group select {
   height: 62px;
-  padding: 20px !important;
+}
+section#contact .form-group option {
+  padding-left: 20px;
 }
 
 section#contact .form-group textarea.form-control {
