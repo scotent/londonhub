@@ -18,26 +18,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="one-page-option-b.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/one-page/one-page-option-b.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2970">
-              <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dark.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dark.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/dark.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4710">
+            <state relative-caret-position="608">
               <caret line="314" column="12" lean-forward="false" selection-start-line="314" selection-start-column="12" selection-end-line="314" selection-end-column="15" />
               <folding />
             </state>
@@ -49,26 +33,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44430">
               <caret line="2962" column="17" lean-forward="false" selection-start-line="2962" selection-start-column="6" selection-end-line="2962" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="onepage.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/one-page/onepage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1725">
-              <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/one-page/css/fonts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -118,7 +82,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,6 +110,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,20 +231,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/one-page/one-page-option-b.html">
+    <entry file="file://$PROJECT_DIR$/css/dark.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44430">
+          <caret line="2962" column="17" lean-forward="false" selection-start-line="2962" selection-start-column="6" selection-end-line="2962" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one-page/one-page-option-b.html" />
     <entry file="file://$PROJECT_DIR$/css/dark.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4710">
@@ -297,41 +264,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-page/onepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/one-page/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/one-page/onepage.css" />
+    <entry file="file://$PROJECT_DIR$/one-page/css/fonts.css" />
     <entry file="file://$PROJECT_DIR$/one-page/op-holiday.html" />
     <entry file="file://$PROJECT_DIR$/one-page/op-lightbox-video.html" />
     <entry file="file://$PROJECT_DIR$/one-page/op-html5-video-dark.html" />
-    <entry file="file://$PROJECT_DIR$/one-page/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="77" lean-forward="false" selection-start-line="46" selection-start-column="77" selection-end-line="46" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/one-page/onepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/one-page/css/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/one-page/onepage.css" />
     <entry file="file://$PROJECT_DIR$/css/font-icons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44430">
@@ -342,25 +281,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dark.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4710">
+        <state relative-caret-position="608">
           <caret line="314" column="12" lean-forward="false" selection-start-line="314" selection-start-column="12" selection-end-line="314" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/one-page/one-page-option-b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="198" column="0" lean-forward="false" selection-start-line="198" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/one-page/one-page-option-b.html" />
   </component>
 </project>
