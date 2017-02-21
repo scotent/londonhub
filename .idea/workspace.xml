@@ -2,188 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d9d426-6e88-477e-b412-9c8284fe6413" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/.idea/HTML.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/font-icons-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/font-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/Simple-Line-Icons.dev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/Simple-Line-Icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/Simple-Line-Icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/Simple-Line-Icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/Simple-Line-Icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons-snapchat.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons-snapchat.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons-snapchat.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons-snapchat.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/font-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/lined-icons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/lined-icons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/lined-icons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/fonts/lined-icons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/responsive-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/css/swiper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/canvas.slider.fade.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/bs-datatable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/bs-editable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/bs-filestyle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/bs-select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/bs-switches.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/daterangepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/moment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/rangeslider.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/responsive-tabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/select-boxes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/selectsplitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/star-rating.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/timepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/components/typehead.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/events-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.calendario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.camera.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.elastic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.gmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.mousewheel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.nivo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/jquery.vmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins-dynamic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.color.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.countdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.countto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.dribbble.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.fitvids.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.flexslider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.flickrfeed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.important.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.infinitescroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.instagram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.isotope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.magnific.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.owlcarousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.pagetransition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.paginate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.parallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.piechart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.superfish.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.swiper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.tabs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.textrotator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.toastr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.twitterfeed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.validation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/plugins/jquery.youtube.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/continents/jquery.vmap.africa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/continents/jquery.vmap.asia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/continents/jquery.vmap.australia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/continents/jquery.vmap.europe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/continents/jquery.vmap.north-america.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/continents/jquery.vmap.south-america.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.algeria.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.argentina.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.brazil.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.canada.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.europe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.france.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.germany.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.greece.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.iran.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.iraq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.russia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.sampledata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.tunisia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.turkey.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.usa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/js/vmap/jquery.vmap.world.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/css/colors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/css/colors.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/css/et-line.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/blog/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/canvasone-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/canvasone-dark@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/canvasone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/canvasone@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/devices-wireframe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/fashion/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/fashion/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/fashion/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/fashion/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/icons/map-icon-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/chrome.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/iphone-slider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/main.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/op-register.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/slider-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/slider-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/slider-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/slider-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/page/testimonials.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/portfolio/mixed/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/team/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/team/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/team/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/1.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/1.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/2.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/2.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/3.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/images/videos/3.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/PHPMailerAutoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/class.phpmailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/class.phpmaileroauth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/class.phpmaileroauthgoogle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/class.pop3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/class.smtp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/phpmailer/get_oauth_token.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/include/sendemail.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/one-page-option-b.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/scotland-house/onepage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/OptionB/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/London-Hub-2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/London-Hub-2/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/London-Hub-2/scotland-house/index.html" afterPath="$PROJECT_DIR$/London-Hub-2/scotland-house/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/webhub.css" afterPath="$PROJECT_DIR$/css/webhub.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -201,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="157" column="81" lean-forward="false" selection-start-line="157" selection-start-column="81" selection-end-line="157" selection-end-column="81" />
+            <state relative-caret-position="488">
+              <caret line="318" column="4" lean-forward="false" selection-start-line="318" selection-start-column="4" selection-end-line="318" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -213,55 +32,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="functions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="390" column="25" lean-forward="false" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="25" />
+              <folding>
+                <marker date="1480288497000" expanded="true" signature="83353:83397" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/London-Hub-2/scotland-house/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="97" column="127" lean-forward="false" selection-start-line="97" selection-start-column="127" selection-end-line="97" selection-end-column="127" />
+            <state relative-caret-position="272">
+              <caret line="97" column="195" lean-forward="false" selection-start-line="97" selection-start-column="172" selection-end-line="97" selection-end-column="195" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/contact_me.js">
+      <file leaf-file-name="magnific-popup.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1471613828000" expanded="true" signature="1473:1480" ph="×" />
-                <marker date="1471613828000" expanded="true" signature="2151:2158" ph="×" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="81" lean-forward="false" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webhub.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/webhub.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="228" column="57" lean-forward="false" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alerts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/alerts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-3465">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -283,7 +82,13 @@
       <find>text</find>
       <find>intro</find>
       <find>aside</find>
+      <find>#play-hero-video</find>
+      <find>play-hero-video</find>
+      <find>magn</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -293,9 +98,9 @@
       <list>
         <option value="$PROJECT_DIR$/js/jquery.easing.min.js" />
         <option value="$PROJECT_DIR$/test" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/webhub.css" />
         <option value="$PROJECT_DIR$/London-Hub-2/scotland-house/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -367,6 +172,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scotland-house" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="londonhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="londonhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -474,12 +293,12 @@
       <workItem from="1485857562186" duration="2524000" />
       <workItem from="1486564312564" duration="990000" />
       <workItem from="1486720239265" duration="1075000" />
-      <workItem from="1487675120043" duration="626000" />
+      <workItem from="1487675120043" duration="1845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18737000" />
+    <option name="totallyTimeSpent" value="19956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -488,6 +307,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -499,9 +319,26 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -773,22 +610,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/London-Hub-2/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="157" column="81" lean-forward="false" selection-start-line="157" selection-start-column="81" selection-end-line="157" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/London-Hub-2/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/London-Hub-2/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3465">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/London-Hub-2/scotland-house/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="97" column="127" lean-forward="false" selection-start-line="97" selection-start-column="127" selection-end-line="97" selection-end-column="127" />
+        <state relative-caret-position="272">
+          <caret line="97" column="195" lean-forward="false" selection-start-line="97" selection-start-column="172" selection-end-line="97" selection-end-column="195" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="390" column="25" lean-forward="false" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="25" />
+          <folding>
+            <marker date="1480288497000" expanded="true" signature="83353:83397" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="318" column="4" lean-forward="false" selection-start-line="318" selection-start-column="4" selection-end-line="318" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
