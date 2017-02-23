@@ -2,90 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90d9d426-6e88-477e-b412-9c8284fe6413" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/.idea/London-Hub-2.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/camera-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/camera.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/colors-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/colors-rtl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/colors.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/colors.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/bs-datatable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/bs-editable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/bs-filestyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/bs-rating.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/bs-select.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/bs-switches.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/dark-components.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/daterangepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/ion.rangeslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/pricing-table.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/radio-checkbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/rangeslider/sprite-skin-nice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/select-boxes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/components/timepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/dark-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/elastic.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/font-icons-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/font-icons-snapchat.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/content.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/events.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/extras.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/footer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/header.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/helpers.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/layouts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/pagetitle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/portfolio.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shop.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/alerts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/buttons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/carousel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/clients.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/countdown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/counter-skills.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/dividers.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/faqs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/feature-box.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/headings.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/misc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/overlay.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/pricing.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/process-steps.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/promo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/social-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/styled-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/team.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/testimonials.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/toggles-accordions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/youtubebg.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/sliders.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/topbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/typography.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/imports/widgets.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/intro-fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/nivo-slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/responsive-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/swiper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/css/vmap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/images/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/scotland-house/images/page/slider-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/scotland-house/scotland-house.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/style-import.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/style-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/London-Hub-2/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/London-Hub-2/scotland-house/images/page/London-Hub-Test-Image.jpg" afterPath="$PROJECT_DIR$/London-Hub-2/scotland-house/images/page/London-Hub-Test-Image.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/London-Hub-2/scotland-house/index.html" afterPath="$PROJECT_DIR$/London-Hub-2/scotland-house/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -106,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/London-Hub-2/scotland-house/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3412">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="97" column="359" lean-forward="false" selection-start-line="97" selection-start-column="359" selection-end-line="97" selection-end-column="359" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -160,7 +78,6 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -180,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,10 +124,27 @@
               <option name="myItemId" value="London-Hub-2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scotland-house" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="londonhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="londonhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="London-Hub-2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,33 +232,34 @@
       <workItem from="1485857562186" duration="2524000" />
       <workItem from="1486564312564" duration="990000" />
       <workItem from="1486720239265" duration="1075000" />
-      <workItem from="1487675120043" duration="4100000" />
+      <workItem from="1487675120043" duration="5083000" />
+      <workItem from="1487843749033" duration="825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22211000" />
+    <option name="totallyTimeSpent" value="24019000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -337,7 +273,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -359,9 +295,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2355">
           <caret line="157" column="81" lean-forward="false" selection-start-line="157" selection-start-column="81" selection-end-line="157" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -369,10 +302,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1471613828000" expanded="true" signature="1473:1480" ph="×" />
-            <marker date="1471613828000" expanded="true" signature="2151:2158" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -380,7 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="81" lean-forward="false" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -388,25 +316,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3840">
           <caret line="256" column="59" lean-forward="false" selection-start-line="256" selection-start-column="59" selection-end-line="256" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/alerts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/alerts.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2355">
           <caret line="157" column="81" lean-forward="false" selection-start-line="157" selection-start-column="81" selection-end-line="157" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -414,10 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1471613828000" expanded="true" signature="1473:1480" ph="×" />
-            <marker date="1471613828000" expanded="true" signature="2151:2158" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -425,7 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="81" lean-forward="false" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -433,7 +345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -441,9 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -451,10 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1471613828000" expanded="true" signature="1473:1480" ph="×" />
-            <marker date="1471613828000" expanded="true" signature="2151:2158" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -462,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="81" lean-forward="false" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7665">
           <caret line="511" column="0" lean-forward="false" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,9 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -488,7 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7665">
           <caret line="511" column="0" lean-forward="false" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -496,9 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -506,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7665">
           <caret line="511" column="0" lean-forward="false" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -514,9 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7665">
           <caret line="511" column="0" lean-forward="true" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -532,9 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2805">
           <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -549,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,9 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,10 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1471613828000" expanded="true" signature="1473:1480" ph="×" />
-            <marker date="1471613828000" expanded="true" signature="2151:2158" ph="×" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,25 +471,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="81" lean-forward="false" selection-start-line="20" selection-start-column="81" selection-end-line="20" selection-end-column="81" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test" />
     <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/alerts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/London-Hub-2/css/imports/shortcodes/alerts.css" />
     <entry file="file://$PROJECT_DIR$/css/webhub.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="228" column="57" lean-forward="false" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -626,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -634,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -642,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3465">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,9 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
           <caret line="390" column="25" lean-forward="false" selection-start-line="390" selection-start-column="21" selection-end-line="390" selection-end-column="25" />
-          <folding>
-            <marker date="1487677755000" expanded="true" signature="83353:83397" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,16 +523,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/London-Hub-2/scotland-house/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3412">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="97" column="359" lean-forward="false" selection-start-line="97" selection-start-column="359" selection-end-line="97" selection-end-column="359" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
