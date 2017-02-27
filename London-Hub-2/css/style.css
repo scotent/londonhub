@@ -563,9 +563,12 @@ span.middot {
 .section:hover .revealer-image { bottom: -50px; }
 
 
-/* ----------------------------------------------------------------
-	Columns & Grids
------------------------------------------------------------------*/
+section#content .img-centered {position: relative; top: 50%; transform: translateY(-50%);}
+
+
+		/* ----------------------------------------------------------------
+            Columns & Grids
+        -----------------------------------------------------------------*/
 
 
 .postcontent { width: 860px; }
